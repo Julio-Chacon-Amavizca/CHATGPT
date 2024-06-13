@@ -203,10 +203,9 @@
             SELECTED_MODEL,
             {
                 initProgressCallback: (info) => {
-                    console.log('initProgressCallback', info)
+                    // console.log('initProgressCallback', info)
                     $info.textContent = `${info.text}`
                     if (info.progress === 1) {
-                        console.log($loading)
                         $loading.parentNode.removeChild($loading)
                         $button.removeAttribute('disabled')
                         addMessage("¡Hola! Soy un ChatGPT que se ejecuta completamente en tu navegador. ¿En qué puedo ayudarte hoy?", 'bot')
