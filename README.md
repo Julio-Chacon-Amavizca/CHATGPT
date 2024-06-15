@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Debes de tener habilitada la aceleracion por hardware de tu navegador.
+
 # CHATGPT
 
 Este repositorio contiene el código para un proyecto basado en ChatGPT, el modelo de IA que se utiliza es Llama-3-8B-Instruct-q4f32_1-MLC-1k de Meta.
