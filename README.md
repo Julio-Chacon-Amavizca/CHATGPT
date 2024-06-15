@@ -27,7 +27,7 @@ WebLLM es totalmente compatible con la API OpenAI . Es decir, puede usar la mism
 ## Uso
 
 > [!IMPORTANT]
-> Debes de tener habilitada la aceleracion por hardware de tu navegador.
+> Debe tener habilitada la aceleración de hardware para su navegador.
 
 1. Clona el repositorio.
 2. Abre `index.html` en tu navegador para interactuar con el chatbot.
