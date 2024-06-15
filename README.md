@@ -1,6 +1,7 @@
 # CHATGPT
 
-Este repositorio contiene el código para un proyecto basado en el modelo de IA Llama-3-8B-Instruct-q4f32_1-MLC-1k de Meta.
+Este repositorio contiene el código para un proyecto basado en ChatGPT, el modelo de IA que se utiliza es Llama-3-8B-Instruct-q4f32_1-MLC-1k de Meta.
+Este modelo se ejecuta en el navegador utilizando webGPU.
 
 ## Descripción
 
